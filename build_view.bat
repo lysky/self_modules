@@ -1,0 +1,1 @@
+D:\WinPython-64bit-2.7.3.2\python-2.7.3.amd64\Lib\site-packages\cython.py -a outlier.pyx

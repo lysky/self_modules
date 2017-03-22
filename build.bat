@@ -1,0 +1,1 @@
+D:\WinPython-64bit-2.7.3.2\python-2.7.3.amd64\python calOutlier_setup.py build_ext --inplace
